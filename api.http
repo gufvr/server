@@ -5,3 +5,7 @@ Content-Type: application/json
   "name": "Gustavo Favero",
   "email": "gustavo.vfavero@gmail.com"
 }
+
+###
+
+GET http://localhost:3333/invites/test
